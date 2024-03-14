@@ -7,5 +7,4 @@ we create a system that can continuously monitoring the heart signal of the elde
 
 If no signal is detected, 
 our system will promptly alert the caregivers, 
-enabling them to swiftly request medical assistance,
-and potentially, increase the survival rate of the elder. 
+enabling them to swiftly request medical assistance. 
